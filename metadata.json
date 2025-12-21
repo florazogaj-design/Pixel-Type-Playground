@@ -1,0 +1,7 @@
+{
+  "name": "Pixel Type Playground - Clean V.3",
+  "description": "A customized pixel art typography viewer with interactive play mode.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
